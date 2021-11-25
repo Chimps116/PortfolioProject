@@ -183,3 +183,5 @@ WHERE dea.continent is not null
 
 SELECT * 
 FROM PercentPopulationVaccinated
+
+Based on the project
